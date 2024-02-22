@@ -1,7 +1,8 @@
 # Assistente Virtual - Pudim
 
-##Uma releitura da Alexa de forma simplificada para fins educacionais, criada utilizando bibliotecas Python
-(execute-os no prompt de comando/cmt/terminal) 
+## Uma releitura da Alexa de forma simplificada para fins educacionais, criada utilizando bibliotecas Python
+
+### Execute os seguintes comandos no prompt de comando/cmt/terminal para baixar as bibliotecas e o código funcionar normalmente
 
 Para que a assistente virtual ouça os comandos do usuário:
 `pip install speechRecognition`
