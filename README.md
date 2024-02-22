@@ -1,6 +1,8 @@
 # Assistente Virtual - Pudim
 
-![Pudim](https://github.com/Rodrigo-L-Oliveira/AssistenteVirtual/assets/99633470/fcd24cf6-0c1d-438a-b4ec-22b655d16bd5)
+<div align='center'>
+<img src='https://github.com/Rodrigo-L-Oliveira/AssistenteVirtual/assets/99633470/fcd24cf6-0c1d-438a-b4ec-22b655d16bd5'/>
+</div>
 
 ## Uma releitura da Alexa de forma simplificada para fins educacionais, criada utilizando bibliotecas Python
 
